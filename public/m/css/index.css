@@ -1,0 +1,38 @@
+    /*导航*/
+
+.ct_nav {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.ct_nav a {
+    float: left;
+    width: 33.3333%;
+}
+
+.ct_nav a img {
+    display: block;
+    width: 100%;
+}
+    /*商品区*/
+.ct_product {
+    width: 100%;
+    padding: 0 10px;
+}
+
+.ct_product .pro_item {
+    width: 48%;
+    float: left;
+    margin-top: 10px;
+}
+
+.ct_product .pro_item:nth-child(2n) {
+
+}
+
+
+
+
+
+
